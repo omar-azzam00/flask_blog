@@ -1,0 +1,5 @@
+info.txt
+.venv
+instance
+__pycache__
+flaskblog/static/profile_pics
